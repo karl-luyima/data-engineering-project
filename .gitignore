@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Scrapy output
+*.json
+*.csv
+
+# Environment variables
+.env
